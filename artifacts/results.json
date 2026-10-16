@@ -1,0 +1,11 @@
+{
+  "algo": "dqn",
+  "collision_rate": 0.5,
+  "env_id": "highway-fast-v0",
+  "mean_reward": 21.97934895606831,
+  "mean_survival_steps": 25.05,
+  "n_episodes": 20,
+  "seed": 0,
+  "success_rate": 0.5,
+  "total_timesteps": 20000
+}
